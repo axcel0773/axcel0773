@@ -11,10 +11,7 @@
 <br>
 <div align="start">
   <p> ▪️ Estudante de Engenharia da Computação, 7ª semestre, Universidade São Judas Tadeus, SP.</p>
-  <p> ▪️ Estudando Front-end.
-  <p> ▪️ Futuro programador Full Stack.
   <p> ▪️ Sou apaixonado por tecnologia, principalmente hardware; adoro montar setups🖥️🔧, mas também amo programação🧑‍💻, particularmente front-end.</p>
-  <p> ▪️ Estou aberto para contratações.
   <br>
 </div>
  
