@@ -26,8 +26,8 @@
  
  <div align="center">
   <a href="https://github.com/axcel0773">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axcel0773&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axcel0773&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=axcel0773&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=axcel0773&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ![Snake animation](https://github.com/axcel0773/axcel0773/blob/output/github-contribution-grid-snake.svg)
