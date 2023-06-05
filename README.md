@@ -18,7 +18,7 @@
  
  <div style="display: inline_block" align="center">
   <br>
-   <img alt="Yuji-java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)">
+   <img alt="Yuji-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)">
    <img alt="Yuji-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img alt="Yuji-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
