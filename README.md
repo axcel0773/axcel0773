@@ -18,12 +18,12 @@
  
  <div style="display: inline_block" align="center">
   <br>
-   <img alt="Yuji-java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img alt="Yuji-spring" height="40" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-   <img alt="Yuji-mysql" height="40" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="Yuji-azure" height="40" width="50" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
-    <img alt="Yuji-mongodb" height="40" width="50" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="Yuji-oracle" height="40" width="50" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+   <img alt="Yuji-java" height="35" width="45" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img alt="Yuji-spring" height="35" width="45" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   <img alt="Yuji-mysql" height="35" width="45" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Yuji-azure" height="35" width="45" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+    <img alt="Yuji-mongodb" height="35" width="45" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="Yuji-oracle" height="35" width="45" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
  </div>
  <br>
  
