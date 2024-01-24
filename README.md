@@ -10,9 +10,9 @@
 </div>
 <br>
 <div align="start">
-  <p> ▪️ Estudante de Engenharia da Computação, 10ª semestre, Universidade São Judas Tadeus, SP.</p>
+  <p> ▪️ Formado em Engenharia da Computação na Universidade São Judas Tadeus, SP.</p>
   <p> ▪️ Sou apaixonado por tecnologia, principalmente hardware; adoro montar setups🖥️🔧, mas também amo programação🧑‍💻</p>
-  <p> ▪️ Atuando como Analista de Sistemas </p>
+  <p> ▪️ Atuando como Analista de Sistemas no setor de varejo </p>
   <br>
 </div>
  
